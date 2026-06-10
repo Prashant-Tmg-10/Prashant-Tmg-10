@@ -34,6 +34,10 @@ Build real-world applications and grow into a professional software engineer.
 
 ![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashant-Tmg-10&show_icons=true&theme=tokyonight)
 
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Tmg-10&layout=compact&theme=tokyonight)
+
 
 ## 🔥 GitHub Streak
 
