@@ -21,7 +21,7 @@ Building APIs, designing databases, and learning how production systems work.
 
 ## 🌱 Currently Learning
 
-- Backend Architecture
+- Backend Architecture 
 - Docker
 - Authentication & Security
 - Deployment
