@@ -6,7 +6,7 @@ Building APIs, designing databases, and learning how production systems work.
 
 ## 🚀 Current Projects
 
-- Expense Tracker API
+- Finance Tracker APP
 - Task Management System
 
 ## 🛠 Tech Stack
