@@ -28,7 +28,7 @@ Building APIs, designing databases, and learning how production systems work.
 
 ## 🎯 Mission
 
-Build real-world applications and grow into a professional software engineer.
+Build real-world applications and grow into a professional software engineer .
 
 ## 📊 GitHub Stats
 
